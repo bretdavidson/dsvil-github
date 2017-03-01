@@ -1,4 +1,4 @@
 # DSVIL GitHub Talk
 
 ## Talk Slides
-https://bretdavidson.github.io/dsvil-github/#/
+[bretdavidson.github.io/dsvil-github](https://bretdavidson.github.io/dsvil-github/#/)

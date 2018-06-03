@@ -1,6 +1,5 @@
 ## Version control with Git and GitHub: Evaluating software hosted on GitHub: ANSWER KEY
 ### Heidi Tebbe & Bret Davidson, NCSU Libraries
-### Monday, April 24th, 2017
 
 Alone or in groups of two, evaluate one or more of the example repositories using the questions listed below. You will have 15 minutes to complete this activity. We will debrief as a group afterward, but please don’t hesitate to ask questions as you go along.
 
